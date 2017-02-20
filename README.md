@@ -32,7 +32,7 @@ I am a mathematician, a statistician, and a scientist.
 
 # Miscellaneous
 
-- [Seebriese](http://00tau.github.io/seebrise/)
+- [Seebrise](http://00tau.github.io/seebrise/)
 - [Katzenpfote](http://00tau.github.io/katzenpfote/)
 
 # Membership
