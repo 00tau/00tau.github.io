@@ -4,18 +4,17 @@ I am a mathematician, a statistician, and a scientist.
 
 ![portrait](http://www.uni-kiel.de/medinfo/mitarbeiter/moebius/moebius-0042-1665.jpeg)
 
-# Research interests (mathematical statistics)
-- statistical analysis of geometric and topological invariants of 3D and 4D image data
-- algebraic topology and digital topology (when being used for the above task)
-- random field theory
-- statistics on manifolds
+# Research interests
 
-# Research interests (applications)
-- medical image analysis
-- multi-subject image analysis
-- [fMRI-data](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging)
+- statistical analysis of geometrical and topological invariants
+- random field theory
+- (digital) signal processing
+- systems science, cybernetics, self organisation
+
+# I am currently working on
+
+- [functional MRI data](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging)
 - [brain mapping](https://en.wikipedia.org/wiki/Brain_mapping)
-- system science
 
 # You can find me on
 
@@ -37,4 +36,5 @@ I am a mathematician, a statistician, and a scientist.
 
 # Membership
 
-- [DMV-Fachgruppe Stochastik e.V.](http://www.fg-stochastik.de/)
+- [DMV-Fachgruppe Stochastik e. V.](http://www.fg-stochastik.de/)
+- [International Biometric Society (IBS-DR)](http://www.biometrische-gesellschaft.de/)
