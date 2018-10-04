@@ -6,15 +6,15 @@ I am a mathematician, a statistician, and a scientist.
 
 # Research interests
 
-- statistical analysis of geometrical and topological invariants
-- random field theory
-- (digital) signal processing
-- systems science, cybernetics, self organisation
+- Statistical analysis of topological and geometrical invariants
+- Random field theory
+- Systems science, cybernetics, self organisation
+- Signal processing
 
-# I am currently working on
+# Currently working on
 
-- [functional MRI data](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging)
-- [brain mapping](https://en.wikipedia.org/wiki/Brain_mapping)
+- [FMRI (functional magnetic resonance imaging) data](https://fmristats.github.io/)
+- [Brain mapping](https://en.wikipedia.org/wiki/Brain_mapping)
 
 # You can find me on
 
@@ -23,8 +23,9 @@ I am a mathematician, a statistician, and a scientist.
 - [UKSH](http://www.uni-kiel.de/medinfo/mitarbeiter/moebius/)
 - [for2107](http://for2107.de/teilprojekt-6/)
 
-# Software
+# Selected Software Projects
 
+- [fmristats](https://fmristats.github.io/)
 - [metagen](http://00tau.github.io/metagen/)
 - [proteomics](http://00tau.github.io/proteomics-in-r/)
 - [easyQC](http://00tau.github.io/skyline-addon-easyqc/)
