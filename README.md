@@ -1,29 +1,19 @@
-# About
+![portrait])https://avatars3.githubusercontent.com/u/1826624?s=400&u=82aa4d774850df2256e42a5beabcd16b4465455f&v=4)
 
-I am a mathematician, a statistician, and a scientist.
-
-![portrait](http://www.uni-kiel.de/medinfo/mitarbeiter/moebius/moebius-0042-1665.jpeg)
+Mathematician. Statistician. Scientist.
 
 # Research interests
 
-- statistical analysis of geometrical and topological invariants
-- random field theory
-- (digital) signal processing
-- systems science, cybernetics, self organisation
-
-# I am currently working on
-
-- [functional MRI data](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging)
-- [brain mapping](https://en.wikipedia.org/wiki/Brain_mapping)
+- Systems science, cybernetics, self organisation
+- Statistics of geometrical and topological invariants
+- Random field theory
 
 # You can find me on
 
 - [GitHub](https://github.com/00tau)
 - [ResearchGate](https://www.researchgate.net/profile/Thomas_Moebius2)
-- [UKSH](http://www.uni-kiel.de/medinfo/mitarbeiter/moebius/)
-- [for2107](http://for2107.de/teilprojekt-6/)
 
-# Software
+# Selected Statistical Software Projects
 
 - [metagen](http://00tau.github.io/metagen/)
 - [proteomics](http://00tau.github.io/proteomics-in-r/)
@@ -34,7 +24,7 @@ I am a mathematician, a statistician, and a scientist.
 - [Seebrise](http://00tau.github.io/seebrise/)
 - [Katzenpfote](http://00tau.github.io/katzenpfote/)
 
-# Membership
+# Memberships
 
 - [DMV-Fachgruppe Stochastik e. V.](http://www.fg-stochastik.de/)
 - [International Biometric Society (IBS-DR)](http://www.biometrische-gesellschaft.de/)
