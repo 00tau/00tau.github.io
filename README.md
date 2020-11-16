@@ -1,4 +1,4 @@
-![portrait])https://avatars3.githubusercontent.com/u/1826624?s=400&u=82aa4d774850df2256e42a5beabcd16b4465455f&v=4)
+![portrait])https://avatars3.githubusercontent.com/u/1826624)
 
 Mathematician. Statistician. Scientist.
 
