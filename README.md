@@ -1,4 +1,4 @@
-![portrait])https://avatars3.githubusercontent.com/u/1826624?s=400&u=82aa4d774850df2256e42a5beabcd16b4465455f&v=4)
+![portrait](https://avatars3.githubusercontent.com/u/1826624)
 
 Mathematician. Statistician. Scientist.
 
@@ -16,6 +16,7 @@ Mathematician. Statistician. Scientist.
 
 # Selected Statistical Software Projects
 
+- [fmristats](https://fmristats.github.io/)
 - [metagen](http://00tau.github.io/metagen/)
 - [proteomics](http://00tau.github.io/proteomics-in-r/)
 - [easyQC](http://00tau.github.io/skyline-addon-easyqc/)
@@ -24,8 +25,3 @@ Mathematician. Statistician. Scientist.
 
 - [Seebrise](http://00tau.github.io/seebrise/)
 - [Katzenpfote](http://00tau.github.io/katzenpfote/)
-
-# Memberships
-
-- [DMV-Fachgruppe Stochastik e. V.](http://www.fg-stochastik.de/)
-- [International Biometric Society (IBS-DR)](http://www.biometrische-gesellschaft.de/)
