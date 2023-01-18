@@ -7,7 +7,6 @@ Mathematician. Statistician. Scientist.
 - Systems science, cybernetics, self organisation
 - Statistics of geometrical and topological invariants
 - Random field theory
-- Fluid dynamics
 
 # You can find me on
 
