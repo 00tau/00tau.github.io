@@ -18,8 +18,6 @@ Mathematician. Statistician. Scientist.
 
 - [fmristats](https://fmristats.github.io/)
 - [metagen](http://00tau.github.io/metagen/)
-- [proteomics](http://00tau.github.io/proteomics-in-r/)
-- [easyQC](http://00tau.github.io/skyline-addon-easyqc/)
 
 # Miscellaneous
 
