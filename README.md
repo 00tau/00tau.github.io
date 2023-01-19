@@ -10,7 +10,11 @@ Mathematician. Statistician. Scientist.
 
 # You can find me on
 
+- [Stastisiches Beratungszentrum Möbius](http://www.statistisches-beratungszentrum.de)
+- [LinkedIn](https://www.linkedin.com/in/dr-thomas-w-d-m%C3%B6bius-35970090/)
 - [GitHub](https://github.com/00tau)
+- [StackOverflow](https://stackoverflow.com/users/2907948/thomas-m%C3%B6bius)
+- [StackExchange](https://stackexchange.com/users/3474338/thomas-m%c3%b6bius)
 - [ResearchGate](https://www.researchgate.net/profile/Thomas_Moebius2)
 
 # Selected Statistical Software Projects
